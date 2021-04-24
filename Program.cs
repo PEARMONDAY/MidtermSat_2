@@ -26,7 +26,7 @@ namespace midterm_sat
             else
                 Console.Write("Error!!");
             */
-            //ข้อ3
+            //ข้อ4
             float x,y,dx,dy,step;
             Console.Write("Input x1");
             int x1 = int.Parse(Console.ReadLine());
